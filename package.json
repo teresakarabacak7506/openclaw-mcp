@@ -1,0 +1,10 @@
+{
+  "name": "openclaw-mcp",
+  "version": "0.1.0",
+  "description": "\ud83e\udd9e MCP server for OpenClaw - secure bridge between Claude.ai and your self-hosted OpenClaw assistant with OAuth2 authentication",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT"
+}
